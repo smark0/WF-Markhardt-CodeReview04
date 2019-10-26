@@ -1,0 +1,161 @@
+var loners = [{
+    "id" : "0",
+    "name": "Eduardo Sauber",
+    "age" : "27",
+    "location" : "Portugal",
+    "hobbies" : "Games, Music, Chilling",
+    "music" : "James Blunt",
+    "quote" : "I'm not desperate, or so.",
+    "img" : "img/person1.jpg",
+    "gender": "male"
+}, {
+    "id": "1",
+    "name": "Heidrich Schrijnemakers",
+    "age" : "34",
+    "location" : "Netherlands",
+    "hobbies" : "Cycling, hiking",
+    "music" : "Punk-rock",
+    "quote": "We accept the love we think we deserve.",
+    "img": "img/person2.jpg",
+    "gender": "male"
+}, {
+    "id": "2",
+    "name": "Valeria Merrill",
+    "age" : "28",
+    "location" : "Spain",
+    "hobbies" : "Swimming, shopping",
+    "music" : "Justin Bieber",
+    "quote": "A friend is someone who knows all about you and still loves you.",
+    "img": "img/person3.jpg",
+    "gender": "female"
+}, {
+    "id": "3",
+    "name": "Marko Lockwood",
+    "age" : "29",
+    "location" : "USA",
+    "hobbies" : "Netflix, jogging",
+    "music" : "Snoop Dogg",
+    "quote": "Love all, trust a few, do wrong to none.",
+    "img": "img/person4.jpg",
+    "gender": "male"
+}, {
+    "id": "4",
+    "name": "Myra Majewski",
+    "age" : "33",
+    "location" : "Poland",
+    "hobbies" : "Exploring the country, yoga",
+    "music" : "Some local indie bands",
+    "quote": "Love is that condition in which the happiness of another person is essential to your own.",
+    "img": "img/person5.jpg",
+    "gender": "female"
+}, {
+    "id": "5",
+    "name": "Tobias Guerrero",
+    "age" : "30",
+    "location" : "Mexico",
+    "hobbies" : "Wrestling, Tacos",
+    "music" : "Heavy metal",
+    "quote": "Love is like the wind, you can't see it but you can feel it.",
+    "img": "img/person6.jpg",
+    "gender": "male"
+}, {
+    "id": "6",
+    "name": "Kiyoko Dirix",
+    "age": "21",
+    "location": "Denmark",
+    "hobbies": "Anime, tea, walks around the city",
+    "music": "J-Pop",
+    "quote": "You don't love someone because they're perfect, you love them in spite of the fact that they're not.",
+    "img": "img/person7.jpg",
+    "gender": "female"
+}, {
+    "id": "7",
+    "name": "Grace Neumann",
+    "age": "37",
+    "location": "Germany",
+    "hobbies": "Cycling, Bratwurst",
+    "music": "Helene Fischer",
+    "quote": "If you can make a woman laugh, you can make her do anything.",
+    "img": "img/person8.jpg",
+    "gender": "female"
+}, {
+    "id": "8",
+    "name": "Jay Christian",
+    "age": "34",
+    "location": "France",
+    "hobbies": "Painting, good food",
+    "music": "I don't listen to music.",
+    "quote": "To die will be an awfully big adventure.",
+    "img": "",
+    "gender": "male"
+}, {
+    "id": "9",
+    "name": "Elen Kimball",
+    "age": "29",
+    "location": "Great Britain",
+    "hobbies": "Partying, studying",
+    "music": "The Beatles",
+    "quote": "The one you love and the one who loves you are never, ever the same person.",
+    "img": "",
+    "gender": "female"
+}, {
+    "id": "10",
+    "name": "Olivier Käufer",
+    "age" : "28",
+    "location" : "Austria",
+    "hobbies" : "Skiing, eating good desert",
+    "music" : "Mozart",
+    "quote": "We love the things we love for what they are.",
+    "img": "",
+    "gender": "male"
+}, {
+    "id": "11",
+    "name": "Sanjay Han",
+    "age" : "27",
+    "location" : "India",
+    "hobbies" : "Tech support, Bollywood movies",
+    "music" : "Bollywood",
+    "quote": "I would die for you. But I won't live for you.",
+    "img": "",
+    "gender": "male"
+}, {
+    "id": "12",
+    "name": "Lucie O'Hannegan",
+    "age" : "28",
+    "location" : "Ireland",
+    "hobbies" : "Shopping, hanging at Temple Street",
+    "music" : "Irish folk music",
+    "quote": "Never love anyone who treats you like you're ordinary.",
+    "img": "",
+    "gender": "female"
+}, {
+    "id": "13",
+    "name": "Claude Atwood",
+    "age" : "40",
+    "location" : "Great Britain",
+    "hobbies" : "Touring the city, Buckingham Palace",
+    "music" : "Hannah Montana",
+    "quote": "So, I love you because the entire universe conspired to help me find you.",
+    "img": "",
+    "gender": "male"
+}, {
+    "id": "14",
+    "name": "Zan Lum",
+    "age" : "28",
+    "location" : "China",
+    "hobbies" : "Our great government, nothing shady",
+    "music" : "Music approved by our government.",
+    "quote": "You are, and always have been, my dream.",
+    "img": "",
+    "gender": "male"
+}, {
+    "id": "15",
+    "name": "Magdalena Chávez",
+    "age" : "23",
+    "location" : "Czech Republic",
+    "hobbies" : "Running, Netflix",
+    "music" : "Dubstep",
+    "quote": "Where there is love there is life.",
+    "img": "",
+    "gender": "female"
+}]

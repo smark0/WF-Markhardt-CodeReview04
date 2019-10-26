@@ -1,0 +1,74 @@
+.card-body {
+    height: 13%;
+}
+
+header {
+    padding-bottom: 20px;
+}
+
+
+.custom-select {
+    width: 150px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+}
+
+.card-img-overlay {
+    padding: 0;
+}
+
+.favtext{
+    height: 23%;
+}
+
+#cc2{
+    column-count: 2;
+}
+
+.heart {
+    width: 100px;
+    height: 100px;
+    background: url("https://cssanimation.rocks/images/posts/steps/heart.png") no-repeat;
+    background-position: -20px -20px;
+    cursor: pointer;
+    -webkit-transition: background-position 1s steps(28);
+    transition: background-position 1s steps(28);
+    -webkit-transition-duration: 0s;
+    transition-duration: 0s;
+}
+
+.heart.is-active {
+    -webkit-transition-duration: 1s;
+    transition-duration: 1s;
+    background-position: -2820px -20px;
+}
+
+@media only screen and (max-width:48em) {
+    .card-columns {
+        column-count: 1;
+    }
+    .card-body {
+        height: 8%;
+    }
+    .favtext {
+        height: 23%;
+    }
+}
+
+@media only screen and (min-width:48em) and (max-width:62em) {
+    .card-columns {
+        column-count: 2;
+    }
+    .card-body {
+        height: 10%;
+    }
+     .favtext {
+         height: 23%;
+     }
+}
+
+@media only screen and (min-width:62em) {
+    .card-columns {
+        column-count: 4;
+    }
+}
